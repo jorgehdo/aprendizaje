@@ -24,7 +24,7 @@ end
 =end
 
 # otras formas de llamar nuestros bloques
-
+# como coroborrar q le mandaron un bloque a la funcion
 def suma(num1, num2)
   puts "Hola desde nuestra funcion"
   resultado =  num1 + num2
